@@ -8,6 +8,8 @@
     <OutputPath>..\..\build\</OutputPath>
     <DefineConstants>CLIENT</DefineConstants>
     <LangVersion>8.0</LangVersion>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <BaseOutputPath></BaseOutputPath>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="..\SharedClasses\ConfigManager.cs" Link="ConfigManager.cs" />
@@ -50,6 +52,6 @@
   </ItemGroup>
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="if exist &quot;$(SolutionDir)\postbuild.cmd&quot; &quot;$(SolutionDir)postbuild.cmd&quot;" />
+    <Exec Command="copy $(SolutionDir)fxmanifest.lua $(OutDir)fxmanifest.lua /Y" />
   </Target>
 </Project>
