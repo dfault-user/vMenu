@@ -272,6 +272,7 @@ namespace vMenuClient
                 "BLISTA",
                 "BRIOSO",
                 "BRIOSO2", // CAYO PERICO (MPHEIST4) DLC - Requires b2189
+                "BRIOSO3", // CRIMINAL ENTERPRISES (MPSUM2) DLC - Requires b2699
                 "CLUB", // SUMMER SPECIAL (MPSUM) DLC - Requires b2060
                 "DILETTANTE",
                 "DILETTANTE2",
@@ -285,6 +286,7 @@ namespace vMenuClient
                 "PRAIRIE",
                 "RHAPSODY",
                 "WEEVIL", // CAYO PERICO (MPHEIST4) DLC - Requires b2189
+                "WEEVIL2", // CRIMINAL ENTERPRISES (MPSUM2) DLC - Requires b2699
             };
             #endregion
             #region Sedans
@@ -325,6 +327,8 @@ namespace vMenuClient
                 "WARRENER",
                 "WARRENER2", // LS TUNERS (MPTUNER) DLC - Requires b2372
                 "WASHINGTON",
+                "DEITY", // CONTRACT (MPSECURITY) DLC - Requires b2545
+                "RHINEHART", // CRIMINAL ENTERPRISES (MPSUM2) DLC - Requires b2699
             };
             #endregion
             #region SUVs
@@ -336,6 +340,7 @@ namespace vMenuClient
                 "BALLER4",
                 "BALLER5",
                 "BALLER6",
+                "BALLER7", // CONTRACT (MPSECURITY) DLC - Requires b2545
                 "BJXL",
                 "CAVALCADE",
                 "CAVALCADE2",
@@ -354,6 +359,7 @@ namespace vMenuClient
                 "NOVAK", // CASINO AND RESORT (MPVINEWOOD) DLC - Requires b2060
                 "PATRIOT",
                 "PATRIOT2",
+                "PATRIOT3", // CONTRACT (MPSECURITY) DLC - Requires b2545
                 "RADI",
                 "REBLA", // CASINO HEIST (MPHEIST3) DLC - Requires b2060
                 "ROCOTO",
@@ -364,6 +370,10 @@ namespace vMenuClient
                 "TOROS",
                 "XLS",
                 "XLS2",
+                "ASTRON", // CONTRACT (MPSECURITY) DLC - Requires b2545
+                "GRANGER2", // CONTRACT (MPSECURITY) DLC - Requires b2545
+                "IWAGEN", // CONTRACT (MPSECURITY) DLC - Requires b2545
+                "JUBILEE", // CONTRACT (MPSECURITY) DLC - Requires b2545
             };
             #endregion
             #region Coupes
@@ -380,10 +390,13 @@ namespace vMenuClient
                 "PREVION", // LS TUNERS (MPTUNER) DLC - Requires b2372
                 "SENTINEL",
                 "SENTINEL2",
+                "SENTINEL4",
                 "WINDSOR",
                 "WINDSOR2",
                 "ZION",
                 "ZION2",
+                "KANJOSJ", // CRIMINAL ENTERPRISES (MPSUM2) DLC - Requires b2699
+                "POSTLUDE", // CRIMINAL ENTERPRISES (MPSUM2) DLC - Requires b2699
             };
             #endregion
             #region Muscle
@@ -440,6 +453,7 @@ namespace vMenuClient
                 "RUINER",
                 "RUINER2",
                 "RUINER3",
+                "RUINER4", // CRIMINAL ENTERPRISES (MPSUM2) DLC - Requires b2699
                 "SABREGT",
                 "SABREGT2",
                 "SLAMVAN",
@@ -462,6 +476,12 @@ namespace vMenuClient
                 "VOODOO2",
                 "YOSEMITE",
                 "YOSEMITE2", // CASINO HEIST (MPHEIST3) DLC - Requires b2060
+                "TAHOMA", // DRUG WARS (MPCHRISTMAS3) DLC - Requires b2802
+                "TULIP2", // DRUG WARS (MPCHRISTMAS3) DLC - Requires b2802
+                "GREENWOOD", // CRIMINAL ENTERPRISES (MPSUM2) DLC - Requires b2699
+                "VIGERO2", // CRIMINAL ENTERPRISES (MPSUM2) DLC - Requires b2699
+                "BROADWAY", // DRUG WARS (MPCHRISTMAS3) DLC - Requires b2802
+                "EUDORA", // DRUG WARS (MPCHRISTMAS3) DLC - Requires b2802
             };
             #endregion
             #region SportsClassics
@@ -513,6 +533,7 @@ namespace vMenuClient
                 "Z190",
                 "ZION3", // CASINO AND RESORT (MPVINEWOOD) DLC - Requires b2060
                 "ZTYPE",
+                "PANTHERE", // DRUG WARS (MPCHRISTMAS3) DLC - Requires b2802
             };
             #endregion
             #region Sports
@@ -526,6 +547,7 @@ namespace vMenuClient
                 "BUFFALO",
                 "BUFFALO2",
                 "BUFFALO3",
+                "BUFFALO4", // CONTRACT (MPSECURITY) DLC - Requires b2545
                 "CALICO", // LS TUNERS (MPTUNER) DLC - Requires b2372
                 "CARBONIZZARE",
                 "COMET2",
@@ -533,6 +555,7 @@ namespace vMenuClient
                 "COMET4",
                 "COMET5",
                 "COMET6", // LS TUNERS (MPTUNER) DLC - Requires b2372
+                "COMET7", // CONTRACT (MPSECURITY) DLC - Rquires b25453
                 "COQUETTE",
                 "COQUETTE4", // SUMMER SPECIAL (MPSUM) DLC - Requires b2060
                 "CYPHER", // LS TUNERS (MPTUNER) DLC - Requires b2372
@@ -551,6 +574,7 @@ namespace vMenuClient
                 "HOTRING",
                 "IMORGON", // CASINO HEIST (MPHEIST3) DLC - Requires b2060
                 "ISSI7", // CASINO AND RESORT (MPVINEWOOD) DLC - Requires b2060
+                "ISSI8", // DRUG WARS (MPCHRISTMAS3) DLC - Requires b2802
                 "ITALIGTO",
                 "ITALIRSX", // CAYO PERICO (MPHEIST4) DLC - Requires b2189
                 "JESTER",
@@ -570,6 +594,7 @@ namespace vMenuClient
                 "NINEF",
                 "NINEF2",
                 "OMNIS",
+                "OMNISEGT", // CRIMINAL ENTERPRISES (MPSUM2) DLC - Requires b2699
                 "PARAGON", // CASINO AND RESORT (MPVINEWOOD) DLC - Requires b2060
                 "PARAGON2", // CASINO AND RESORT (MPVINEWOOD) DLC - Requires b2060
                 "PARIAH",
@@ -609,6 +634,11 @@ namespace vMenuClient
                 "ZR380",
                 "ZR3802",
                 "ZR3803",
+                "R300", // DRUG WARS (MPCHRISTMAS3) DLC - Requires b2802
+                "SM722", // CRIMINAL ENTERPRISES (MPSUM2) DLC - Requires b2699
+                "TENF", // CRIMINAL ENTERPRISES (MPSUM2) DLC - Requires b2699
+                "TENF2", // CRIMINAL ENTERPRISES (MPSUM2) DLC - Requires b2699
+                "CORSITA", // CRIMINAL ENTERPRISES (MPSUM2) DLC - Requires b2699
             };
             #endregion
             #region Super
@@ -624,6 +654,7 @@ namespace vMenuClient
                 "EMERUS", // CASINO AND RESORT (MPVINEWOOD) DLC - Requires b2060
                 "ENTITYXF",
                 "ENTITY2",
+                "ENTITY3", // DRUG WARS (MPCHRISTMAS3) DLC - Requires b2802
                 "FMJ",
                 "FURIA", // CASINO HEIST (MPHEIST3) DLC - Requires b2060
                 "GP1",
@@ -662,6 +693,13 @@ namespace vMenuClient
                 "XA21",
                 "ZENTORNO",
                 "ZORRUSSO", // CASINO AND RESORT (MPVINEWOOD) DLC - Requires b2060
+                "IGNUS", // CONTRACT (MPSECURITY) DLC - Requires b2545
+                "CHAMPION", // CONTRACT (MPSECURITY) DLC - Requires b2545
+                "CINQUEMILA", // CONTRACT (MPSECURITY) DLC - Requires b2545
+                "ZENO", // CONTRACT (MPSECURITY) DLC - Requires b2545
+                "TORERO2", // CRIMINAL ENTERPRISES (MPSUM2) DLC - Requires b2699
+                "LM87", // CRIMINAL ENTERPRISES (MPSUM2) DLC - Requires b2699
+                "VIRTUE", // DRUG WARS (MPCHRISTMAS3) DLC - Requires b2802
             };
             #endregion
             #region Motorcycles
@@ -700,6 +738,7 @@ namespace vMenuClient
                 "LECTRO",
                 "MANCHEZ",
                 "MANCHEZ2", // CAYO PERICO (MPHEIST4) DLC - Requires b2189
+                "MANCHEZ3", // DRUG WARS (MPCHRISTMAS3) DLC - Requires b2802
                 "NEMESIS",
                 "NIGHTBLADE",
                 "OPPRESSOR",
@@ -721,6 +760,9 @@ namespace vMenuClient
                 "WOLFSBANE",
                 "ZOMBIEA",
                 "ZOMBIEB",
+                "REEVER", // CONTRACT (MPSECURITY) DLC - Requires b2545
+                "SHINOBI", // CONTRACT (MPSECURITY) DLC - Requires b2545  
+                "POWERSURGE", // DRUG WARS (MPCHRISTMAS3) DLC - Requires b2802       
             };
             #endregion
             #region OffRoad
@@ -751,6 +793,7 @@ namespace vMenuClient
                 "DUNE4",
                 "DUNE5",
                 "EVERON", // CASINO HEIST (MPHEIST3) DLC - Requires b2060
+                "EVERON2", // DRUG WARS (MPCHRISTMAS3) DLC - Requires b2802
                 "FREECRAWLER",
                 "HELLION", // CASINO AND RESORT (MPVINEWOOD) DLC - Requires b2060
                 "INSURGENT",
@@ -785,6 +828,8 @@ namespace vMenuClient
                 "WINKY", // CAYO PERICO (MPHEIST4) DLC - Requires b2189
                 "YOSEMITE3", // SUMMER SPECIAL (MPSUM) DLC - Requires b2060
                 "ZHABA", // CASINO HEIST (MPHEIST3) DLC - Requires b2060
+                "DRAUGUR", // CRIMINAL ENTERPRISES (MPSUM2) DLC - Requires b2699
+                "BOOR", // DRUG WARS (MPCHRISTMAS3) DLC - Requires b2802
             };
             #endregion
             #region Industrial
@@ -902,6 +947,9 @@ namespace vMenuClient
                 "YOUGA",
                 "YOUGA2",
                 "YOUGA3", // SUMMER SPECIAL (MPSUM) DLC - Requires b2060
+                "YOUGA4", // CONTRACT (MPSECURITY) DLC - Requires b2545
+                "JOURNEY2", // DRUG WARS (MPCHRISTMAS3) DLC - Requires b2802
+                "SURFER3", // DRUG WARS (MPCHRISTMAS3) DLC - Requires b2802
             };
             #endregion
             #region Cycles
@@ -977,6 +1025,7 @@ namespace vMenuClient
                 "VALKYRIE",
                 "VALKYRIE2",
                 "VOLATUS",
+                "CONADA", // CRIMINAL ENTERPRISES (MPSUM2) DLC - Requires b2699
             };
             #endregion
             #region Planes
@@ -992,6 +1041,7 @@ namespace vMenuClient
                 "BLIMP3",
                 "BOMBUSHKA",
                 "CARGOPLANE",
+                "CARGOPLANE2",
                 "CUBAN800",
                 "DODO",
                 "DUSTER",
@@ -1028,6 +1078,7 @@ namespace vMenuClient
             {
                 "AIRBUS",
                 "BRICKADE",
+                "BRICKADE2",
                 "BUS",
                 "COACH",
                 "PBUS2",
@@ -1102,6 +1153,7 @@ namespace vMenuClient
                 "MULE2",
                 "MULE3",
                 "MULE4",
+                "MULE5", // CONTRACT (MPSECURITY) DLC - Requires b2545
                 "PACKER",
                 "PHANTOM",
                 "PHANTOM2",
