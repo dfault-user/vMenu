@@ -4,7 +4,7 @@
 
 |Latest Build|
 |:-:|
-|[![Build status](https://ci.appveyor.com/api/projects/status/inf2kinljmp8a5ul?svg=true)](https://ci.appveyor.com/project/TomGrobbe/vmenu)|
+|[![Build status](https://ci.appveyor.com/api/projects/status/vs8k1yx54oti7nb0?svg=true)](https://ci.appveyor.com/project/dfault-user/vmenu)|
 
 --------
 
